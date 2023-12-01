@@ -1,4 +1,4 @@
-# Bank-Loan-Report
+# Bank Loan Report
 **Visit this link to see the visualization of the Bank Loan DataBase** 
 ***[Tableau Visualization]( https://public.tableau.com/app/profile/julie.razafindranaly/viz/BankLoanTableauDashboard/SUMMARY)***
 
@@ -13,7 +13,7 @@ In order to monitor and assess our bank's lending activities and performance, we
 4.	Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.
 5.	Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
 
-### Good Loan v Bad Loan KPI’s
+### Good Loan vs Bad Loan KPI’s
 
 In order to evaluate the performance of our lending activities and assess the quality of our loan portfolio, we need to create a comprehensive report that distinguishes between 'Good Loans' and 'Bad Loans' based on specific loan status criteria
 
