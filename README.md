@@ -1,6 +1,6 @@
 # Bank Loan Report
 **Visit this link to see the visualization of the Bank Loan DataBase related to this report** 
-***[Tableau Visualization]( [https://public.tableau.com/app/profile/julie.razafindranaly/viz/BankLoanTableauDashboard/SUMMARY](https://public.tableau.com/app/profile/julie.razafindranaly/viz/BankLoanTableauDashboard/SUMMARY))***
+***[Tableau Visualization](https://public.tableau.com/app/profile/julie.razafindranaly/viz/BankLoanTableauDashboard/SUMMARY)***
 
 ## DASHBOARD 1: SUMMARY
 * ###  Problem Statement 
